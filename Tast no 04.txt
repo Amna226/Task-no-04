@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CSS</title>
+</head>
+<style>
+    body{
+        color: white;
+        background-color: rgba(12, 12, 95, 0.973);
+    }
+    section{
+        display:inline-block;
+        margin-top: 70px;
+        margin-left: 50px;
+        margin-right: 50px;
+        margin-bottom: 50px;
+        background-color: rgb(167, 8, 127);
+        border: solid rgb(12, 2, 8);
+        padding-right: 50px;
+        padding-left: 50px;
+        padding-top: 50px;
+        padding-bottom: 50px;
+    }
+    button{
+        color: aliceblue;
+        background-color: blue;
+        padding-right: 10px;
+        padding-left: 10px;
+        padding-top: 10px;
+        padding-bottom: 10px;
+        width: 120px;
+    }
+</style>
+<body>
+    <section>
+    <h1>Corporate Training</h1>
+    <h1>Made Easy</h1>
+    <p>Engaging and empowering learning through technology.</p>
+    <p>Edutor is the perfect theme  for your  Moodle LMS platform.</p>
+    <ul>
+        <li>List item example lorem ipsum</li>
+        <li>List item example lorem ipsum</li>
+        <li>List item example lorem ipsum</li>
+        <br>
+        <br>
+        <button>Get Started</button>
+    </ul>
+</section>
+</body>
+</html>
